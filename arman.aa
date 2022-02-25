@@ -1,0 +1,4 @@
+ativ x = 5
+ativ y = 5 + 2 * 3
+tpel(x)
+tpel(y)
